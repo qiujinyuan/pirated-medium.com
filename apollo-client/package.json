@@ -29,7 +29,7 @@
     "express": "^4.17.1",
     "graphql": "^14.6.0",
     "http-proxy-middleware": "^1.0.3",
-    "immer": "^6.0.2",
+    "immer": "^8.0.1",
     "is-object": "^1.0.1",
     "log4js": "^6.1.2",
     "loglevel": "^1.6.7",
